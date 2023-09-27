@@ -1,7 +1,7 @@
 # DESAFIO AQUIDEV
 
 ## Sobre
-Esta é uma aplicação web desenvolvida em Next.js,TypeScript. Oferece aos usuários recursos de login e registro de usuário, além de uma ampla listagem de cervejas provenientes da [Punk API v2].
+Esta é uma aplicação web desenvolvida em Next.js, TypeScript. Oferece aos usuários recursos de login e registro de usuário, além de uma ampla listagem de cervejas provenientes da [Punk API v2].
 
 ## 🖥️ Instalação
 
